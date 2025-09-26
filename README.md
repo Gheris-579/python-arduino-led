@@ -9,10 +9,8 @@ This repository contains an Arduino sketch (`.ino`) and a Python script (`.py`) 
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
 - [Setup](#setup)
-- [Circuit Diagram](#circuit-diagram)
 - [Usage](#usage)
-- [Notes](#notes)
-- [License](#license)
+
 
 ---
 
@@ -54,22 +52,6 @@ This repository contains an Arduino sketch (`.ino`) and a Python script (`.py`) 
 
 ---
 
-## Circuit Diagram
-
-```
-Arduino UNO R3
-+-----------------+
-|                 |
-|  8 ---[220Ω]---|> LED1
-|  9 ---[220Ω]---|> LED2
-|                 |
-|   GND ---------|
-+-----------------+
-```
-
-*(Optional: replace with an actual image of your breadboard setup)*  
-
----
 
 ## Usage
 1. Run the Python script:
@@ -84,11 +66,5 @@ Arduino UNO R3
 
 ---
 
-## Notes
-- Do **not** supply 5V to the VIN pin; use USB or 7–12V to VIN if using an external power supply.  
-- The LED ON pin indicates that the Arduino is powered correctly.  
 
----
 
-## License
-This project is open-source and available under the MIT License.
