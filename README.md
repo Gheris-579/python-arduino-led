@@ -10,6 +10,7 @@ This repository contains an Arduino sketch (`.ino`) and a Python script (`.py`) 
 - [Software Requirements](#software-requirements)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Screen](#screen)
 
 
 ---
@@ -66,6 +67,11 @@ This repository contains an Arduino sketch (`.ino`) and a Python script (`.py`) 
    - `q` → Quit the program  
 
 ---
+
+## Screen
+
+
+<img width="910" height="783" alt="Screenshot 2025-09-26 030601" src="https://github.com/user-attachments/assets/f5ece3b9-4ab4-4a0c-b41c-8c3cb5713a11" />
 
 
 
