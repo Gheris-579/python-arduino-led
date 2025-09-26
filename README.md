@@ -60,7 +60,8 @@ This repository contains an Arduino sketch (`.ino`) and a Python script (`.py`) 
    ```
 2. Enter your choice:
    - `1` → Turn on LED1  
-   - `2` → Turn on LED2  
+   - `2` → Turn on LED2
+   - `3` → Turn on LED2, LED1  
    - `0` → Turn off both LEDs  
    - `q` → Quit the program  
 
